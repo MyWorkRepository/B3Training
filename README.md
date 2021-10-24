@@ -1,2 +1,2 @@
-# Repository1
+# B3Training
 My first Gihub Repository
